@@ -14,8 +14,8 @@ function preload() { //Carregamento das imagens utilizadas
   MenuJogar= loadImage('Imagens/MenuJogar.png');
   MenuOpções= loadImage('Imagens/MenuOpções.png');
   MenuExtras= loadImage('Imagens/MenuExtras.png');
-  Extras= loadImage('Imagens/Extras.PNG');
-  Opções= loadImage('Imagens/Aguarde.PNG')
+  Extras= loadImage('Imagens/Extras.png');
+  Opções= loadImage('Imagens/Aguarde.png');
 }
 function setup() { //Criação da tela
   createCanvas(windowWidth, windowHeight);
